@@ -1,0 +1,8 @@
+{
+  "qt": { "name": "Qt", "color": "#00ca5d" },
+  "qt4": { "name": "Qt 4", "parent": "qt" },
+  "qt5": { "name": "Qt 5", "parent": "qt" },
+  "gtkplus": { "name": "GTK+", "color": "#81afe1" },
+  "wxwidgets": { "name": "wxWidgets", "color": "#ff011c" },
+  "tk": { "name": "Tk", "parent": "tcl" }
+}

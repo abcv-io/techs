@@ -1,0 +1,11 @@
+{
+  "circleci": { "name": "CircleCI" },
+  "docker": { "name": "Docker" },
+  "drone": { "name": "Drone" },
+  "githubactions": { "name": "GitHub Actions" },
+  "gitlabci": { "name":"Gitlab CI" },
+  "jenkins": { "name":"Jenkins" },
+  "k8s": { "name": "Kubernetes" },
+  "travis": { "name": "Travis CI" },
+  "aws": { "name": "AWS", "color": "#f98c36"}
+}

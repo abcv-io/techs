@@ -1,0 +1,6 @@
+{
+  "opencv": { "name": "OpenCV" },
+  "tensorflow": { "name": "Tensorflow", "color": "#ff8a1b" },
+  "protobuf": { "name": "Google Protobuf" },
+  "openmp": { "name": "OpenMP", "parent": "c"}
+}
