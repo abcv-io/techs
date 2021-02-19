@@ -47,5 +47,9 @@
   "mobx": { "name": "Mobx", "parent": "javascript" },
   "webcomponents": { "name": "Web Components", "parent": "javascript" },
   "racerjs": { "name": "Racer.js", "parent": "javascript" },
-  "nodejs": { "name": "Node.js", "color": "#619D67" }
+  "nodejs": { "name": "Node.js", "color": "#619D67" },
+  "js.nestjs": { "name": "Nest.js", "parent": "nodejs" },
+  "nodejs.telegram-bot-api": { "name": "Node.js Telegram Bot API", "parent": "nodejs" },
+  "js.telegrafjs": { "name": "Telegraf.js", "parent": "nodejs" },
+  "js.telebot": { "name": "Telebot", "parent": "nodejs" }
 }

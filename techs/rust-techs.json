@@ -4,10 +4,11 @@
   "hyper.rs": { "name": "Hyper", "parent": "rust" },
   "diesel.rs": { "name": "Diesel", "parent": "rust" },
   "rocket.rs": { "name": "Rocket", "parent": "rust" },
-  "towerweb.rs": { "name": "Tower Web", "parent": "rust" },
   "serde.rs": { "name": "Serde", "parent": "rust" },
   "redox.rs": { "name": "Redox OS", "parent": "rust" },
   "conrod.rs": { "name": "Conrod", "parent": "rust" },
   "actix.rs": { "name": "Actix Web", "parent": "rust" },
-  "askama.rs": { "name": "Askama", "parent": "rust" }
+  "askama.rs": { "name": "Askama", "parent": "rust" },
+  "teloxide.rs": { "name": "Teloxide", "parent": "rust" },
+  "telebot.rs": { "name": "Telebot", "parent": "rust" }
 }
