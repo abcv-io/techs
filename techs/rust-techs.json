@@ -10,5 +10,12 @@
   "actix.rs": { "name": "Actix Web", "parent": "rust" },
   "askama.rs": { "name": "Askama", "parent": "rust" },
   "teloxide.rs": { "name": "Teloxide", "parent": "rust" },
-  "telebot.rs": { "name": "Telebot", "parent": "rust" }
+  "telebot.rs": { "name": "Telebot", "parent": "rust" },
+  "iou.rs": { "name": "iou", "parent": "rust" },
+  "clap.rs": { "name": "clap", "parent": "rust" },
+  "mio.rs": { "name": "mio", "parent": "tokio.rs" },
+  "glommio.rs": { "name": "glommio", "parent": "rust" },
+  "typed-arena.rs": { "name": "typed-arena", "parent": "rust" },
+  "warp.rs": { "name": "warp", "parent": "rust" },
+  "bitflags.rs": { "name": "bitflags", "parent": "rust" }
 }
