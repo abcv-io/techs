@@ -3,9 +3,12 @@
   "docker": { "name": "Docker" },
   "drone": { "name": "Drone" },
   "githubactions": { "name": "GitHub Actions" },
-  "gitlabci": { "name":"Gitlab CI" },
-  "jenkins": { "name":"Jenkins" },
+  "gitlabci": { "name": "Gitlab CI" },
+  "jenkins": { "name": "Jenkins" },
   "k8s": { "name": "Kubernetes" },
   "travis": { "name": "Travis CI" },
-  "aws": { "name": "AWS", "color": "#f98c36"}
+  "aws": { "name": "AWS", "color": "#f98c36"},
+  "cilium": { "name": "Cilium" },
+  "calico": { "name": "Calico" },
+  "istio": { "name": "Istio" }
 }
