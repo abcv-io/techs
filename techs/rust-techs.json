@@ -17,5 +17,6 @@
   "glommio.rs": { "name": "glommio", "parent": "rust" },
   "typed-arena.rs": { "name": "typed-arena", "parent": "rust" },
   "warp.rs": { "name": "warp", "parent": "rust" },
-  "bitflags.rs": { "name": "bitflags", "parent": "rust" }
+  "bitflags.rs": { "name": "bitflags", "parent": "rust" },
+  "elfo.rs": { "name": "elfo", "parent": "rust" }
 }
