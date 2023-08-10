@@ -1,7 +1,6 @@
 {
   "mercury": { "name": "Mercury", "color": "#ff2b2b" },
   "typescript": { "name": "TypeScript", "color": "#2b7489" },
-  "purescript": { "name": "PureBasic", "color": "#5a6986" },
   "objcpp": { "name": "Objective-C++", "color": "#6866fb" },
   "self": { "name": "Self", "color": "#0579aa" },
   "edn": { "name": "edn", "color": "#db5855" },
@@ -122,7 +121,6 @@
   "pike": { "name": "Pike", "color": "#005390" },
   "lolcode": { "name": "LOLCODE", "color": "#cc9900" },
   "ooc": { "name": "ooc", "color": "#b0b77e" },
-  "handlebars": { "name": "Handlebars", "color": "#01a9d6" },
   "j": { "name": "J", "color": "#9EEDFF" },
   "mask": { "name": "Mask", "color": "#f97732" },
   "emberscript": { "name": "EmberScript", "color": "#FFF4F3" },
