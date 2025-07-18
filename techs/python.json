@@ -24,6 +24,6 @@
   "twisted": { "name": "Twisted", "parent": "python" },
   "sqlalchemy": { "name": "SQLAlchemy", "parent": "python" },
   "tkinter": { "name": "Tkinter", "parent": "python" },
-  "langchain": { "name": "LangChain" },
-  "langsmith": { "name": "LangSmith" }
+  "langchain": { "name": "LangChain", "color": "#1C3C3C" },
+  "langsmith": { "name": "LangSmith", "color": "#F3CCBC" }
 }
