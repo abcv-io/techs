@@ -1,6 +1,0 @@
-{
-  "kafka": { "name": "Kafka" },
-  "rabbitmq": { "name": "RabbitMQ", "color": "#ff5f0f"},
-  "zeromq": { "name": "ZeroMQ", "parent": "c" },
-  "celery": { "name": "Celery", "parent": "python" }
-}

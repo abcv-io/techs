@@ -1,0 +1,14 @@
+{
+  "mariadb": { "name": "MariaDB", "color": "#10c800" },
+  "mysql": { "name": "MySQL", "color": "#10c800" },
+  "redis": { "name": "Redis", "color": "#e61f1f" },
+  "sqlite": { "name": "SQLite" },
+  "postgresql": { "name": "PostgreSQL", "color": "#136a8f" },
+  "mongodb": { "name": "MongoDB", "color": "#10c800" },
+  "clickhouse": { "name": "Clickhouse", "color": "#ffc72e" },
+  "elasticsearch": { "name": "ElasticSearch", "color": "#3ff9b6" },
+  "gcloudspanner": { "name": "Google Spanner", "parent": "gcloud" },
+  "gclouddatastore": { "name": "GCloud Datastore", "parent": "gcloud" },
+  "gcloudsql": { "name": "GCloud SQL", "parent": "gcloud" },
+  "dynamodb": { "name": "DynamoDB", "parent": "aws" }
+}

@@ -1,14 +1,23 @@
 {
-  "circleci": { "name": "CircleCI" },
+  "circleci": { "name": "Circle CI" },
   "docker": { "name": "Docker" },
   "drone": { "name": "Drone" },
   "githubactions": { "name": "GitHub Actions" },
   "gitlabci": { "name": "Gitlab CI" },
   "jenkins": { "name": "Jenkins" },
   "k8s": { "name": "Kubernetes" },
+  "k3s": { "name": "k3s" },
   "travis": { "name": "Travis CI" },
-  "aws": { "name": "AWS", "color": "#f98c36"},
+  "aws": { "name": "AWS", "color": "#f98c36" },
   "cilium": { "name": "Cilium" },
+  "hubble-timescape": { "name": "Hubble Timescape" },
   "calico": { "name": "Calico" },
-  "istio": { "name": "Istio" }
+  "istio": { "name": "Istio" },
+  "argocd": { "name": "Argo CD" },
+  "gcloud": { "name": "Google Cloud" },
+  "gcloudrun": { "name": "GCloud Run", "parent": "gcloud" },
+  "gke": { "name": "GCloud Kubernetes", "parent": "gcloud" },
+  "sentry": { "name": "Sentry", "color": "#6A5FC1" },
+  "grafana": { "name": "Grafana", "color": "#F37D1E" },
+  "prometheus": { "name": "Prometheus", "color": "#E6522C" }
 }

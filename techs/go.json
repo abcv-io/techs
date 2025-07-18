@@ -1,0 +1,9 @@
+{
+  "gin": { "name": "Gin" },
+  "httprouter": { "name": "Httprouter" },
+  "watermill": { "name": "Watermill" },
+  "fasthttp": { "name": "FastHTTP" },
+  "fasttemplate": { "name": "FastTemplate" },
+  "quicktemplate": { "name": "QuickTemplate" },
+  "go.grpc": { "name": "GRPC" }
+}
