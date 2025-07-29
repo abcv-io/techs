@@ -4,5 +4,6 @@
   "zeromq": { "name": "ZeroMQ", "parent": "c" },
   "celery": { "name": "Celery", "parent": "python" },
   "nats": { "name": "NATS", "parent": "go" },
-  "gcp.tasks": { "name": "Google Cloud Tasks", "parent": "gcloud" }
+  "gcp.tasks": { "name": "Google Cloud Tasks", "parent": "gcloud" },
+  "bullmq": { "name": "BullMQ", "parent": "nodejs", "color": "#1E293B" }
 }
