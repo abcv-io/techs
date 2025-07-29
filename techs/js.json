@@ -64,5 +64,7 @@
   "shoelace.style": { "name": "Shoelace", "parent": "js" },
   "grpc-web": { "name": "GRPC Web", "parent": "typescript" },
   "webgl": { "name": "WebGL", "parent": "js" },
-  "puppeteer": { "name": "Puppeteer", "parent": "js" }
+  "puppeteer": { "name": "Puppeteer", "parent": "js" },
+  "cypress": { "name": "Cypress", "parent": "js", "color": "#007780" },
+  "playwright": { "name": "Playwright", "parent": "js", "color": "#45BA4B" }
 }
