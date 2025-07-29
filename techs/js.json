@@ -58,10 +58,11 @@
     "name": "Node.js Telegram Bot API",
     "parent": "nodejs"
   },
-  "js.telegrafjs": { "name": "Telegraf.js", "parent": "nodejs" },
-  "js.telebot": { "name": "Telebot", "parent": "nodejs" },
+  "telegrafjs": { "name": "Telegraf.js", "parent": "nodejs" },
+  "telebot": { "name": "Telebot", "parent": "nodejs" },
   "js.workers": { "name": "Web Workers API", "parent": "js" },
   "shoelace.style": { "name": "Shoelace", "parent": "js" },
   "grpc-web": { "name": "GRPC Web", "parent": "typescript" },
-  "webgl": { "name": "WebGL", "parent": "js" }
+  "webgl": { "name": "WebGL", "parent": "js" },
+  "puppeteer": { "name": "Puppeteer", "parent": "js" }
 }
